@@ -1,134 +1,31 @@
-Pelatihan UKK Poin total 96/100
-Masukkan teks Anda di sini.
-Nama *
-Melanie putri nurazizah
-Kelas *
-XII RPL 3
-XII RPL 1
-XII RPL 4 XII Rpl 2
-Perintah untuk mengganti baris pada *3/3 HTML adalah
-tr td br hr p
+Merupakan pengembangan 
+dari Notepad bawaan Windows, menyediakan Ytur tambahan yang lebih modern dan canggiih note
 
-Untuk memasukkan perintah masukkan *3/3 berupa gambar yang dapat diklik dan fungsinya hampir sama dengan Submit adalah
-Hidden File Image Reset submit
+ermasuk di dalam text editor yang mendukung berbagai sistem operasi sublime
 
-Tag <Input> yang atribut TYPE-nya dapat *3/3 digunakan untuk menerima masukan
-berupa pilihan yaitu
-Radio Circle Password Square text
-Atribute ACTION digunakan untuk * 4/4 
-Menentukan nama form
-Menetukan metode pengiriman yang dipakai
-Menentukan alamat halaman web yang akan memproses masukan dari Form.
-Menerima masukan berupa pilihan
-Menandai atau mengatur nilai dari sebuah radio
-Perintah manakah yang dapat *4/4 
-menggabungkan beberapa kolom
-menjadi satu?
-BR
-Colspan
-Rowspan Textarea hr
-Apa perintah yang paling pertama dalam *3/3
- mengawali pembuatan HTML?
-<body> </body> </html> <html> <title>
-Software untuk menulis bahasa HTML *3/3
- yang paling sederhana adalah
-Ms Excel
-Ms Word notepad
-Ms Powerpoint Paint
-Bagaimana perintah membuat text *3/3 menjadi berwarna ?
-<font color=”color”>
-<bgcolor = “color”> <img src =”.url”>
-<td background=”url”> <text color="color">
-Apa fungsi bg color dalam membuat *4/4 table berpengaruh kepada teks yang ada atau gambar berada pada belakang
-teks?
-Warna latar belakang table
-Warna desktop
-Warna latar belakang monitor Warna latar belakang html Warna website
-Istilah dalam menyimpan file yang *4/4 diperlukan website sehingga
-memungkinkan semua pihak
-mengakses data yang tersedia pada
-website tersebut secara online
-CPanel
-DNS
-Server
-Web Hosting Save
-Apa yang dimaksud dengan Website dan *4/4 berikan contohnya
-Tempat sentral dimana web pages (halaman) disimpan atau kumpulan web yang saling terhubung dan seluruh Yle saling terkait. contohnya seperti Kemdikbud.go.id
-Nama yang mudah diingat yang terkait dengan alamat IP Ysik di internet contoh instagram.com
-Layanan yang menyimpan situs web atau aplikasi web Anda dan membuatnya mudah diakses di berbagai perangkat seperti desktop, seluler, dan tablet. contoh Cloud Hosting
-Sistem komputer yang menjalankan jenis layanan tertentu dalam sebuah jaringan komputer. contoh Proxy Server
-                 Kode untuk memasukkan gambar ke website menggunakan HTML ?
-<img csr="namagambar.jpg"> <img name="namagambar.png"> <img src="namagambar.png"> <img "namagambar.png">
-Menjodohkan text editor dan penjelasannya!
-     Termasuk di dalam text editor yang mendukung
-*4/4
-*
-Software ini dikembangkan oleh perusahaan teknologi raksasa ternama, Microsoft.dapat membuat maupun mengedit source code dengan berbagai bahasa pemrograman,
- Merupakan pengembangan berbagai
-dari Notepad bawaan Windows, menyediakan Ytur tambahan yang lebih modern dan canggih
-VSCodVeSCode
-NotepaNdo+t+epad++
-SublimSeublime
-macam sistem operasi seperti Windows, Mac, dan Linux. Memiliki Ytur berlimpah, namun tetap cepat.
-                                      Dalam pembuatan website ada istilah *4/4 “mockup”. Apa yang dimaksud dengan mockup!
-mensimulasikan bagaimana user berinteraksi dengan user interface secara nyata, meningkatkan komunikasi yang efektif sehingga memungkinkan desainer untuk menguji user journey dan menemukan masalah potensial pada tahap awal.
-adalah gambar berupa desain website atau aspek desain visual, termasuk gambar, warna, dan tipograY yang memberikan gambaran secara detail sebelum produk dibuat.
-susunan, struktur, layout, navigasi dan organisir konten. biasanya buat dengan warna hitam putih
-bertugas untuk menerima, memproses, dan mengirimkan data atau permintaan dari klien (perangkat pengguna) dalam suatu jaringan
-Struktur dasar bahasa pemrograman *4/4 HTML
-<!DOCTYPE html> <html><head><title> </title></head><body></body></html>
-<html><head></head><body></body> </html>
-<html><head><title> </title></head> </html>
-<!DOCTYPE html> <html><head><title> </title></head><body></body>
-Pasangkanlah sesuai dengan fungsinya *
-   untuk
+
+Software ini dikembangkan oleh perusahaan teknologi raksasa ternama, Microsoft.dapat membuat maupun mengedit source code dengan berbagai bahasa pemrogra.  Vscode
+
+
+
+
+
+
 untuk membuat bagian yang berisi informasi meta (seperti
-untuk membuat bagian yang berisi
-konten Skor yang akan
-ditampilkan di halaman web
-memulai
-dokumen pengaturan
-HTML
-karakter, judul halaman, link ke Yle CSS, atau Yle JavaScript).
-    <head> <body> <html>
-               Pasangkan kedua data berikut *
- bahasa pemrograman yang proses pengolahannya dilakukan di komputer pengunjung (Client). Ketika seseorang ingin melihat suatu website, maka website yang bertipe ini akan sepenuhnya di download dan diproses di komputer masing- masing sehingga siapapun yang melihat website kita bisa mengambil seluruh Script yang ditulis oleh pembuatnya, Hal tersebut merupakan suatu kelemahan tersendiri, yaitu orang yang berniat jahat bisa dengan mudah mengotak-atik website kita dengan lebih mudah. Web yang menggunakan program ini biasanya website statis, yaitu yang tampilannya hampir tidak berubah, kecuali website tersebut dirombak pada halamannya contoh html, css
-Client Side Scripting
-Server Side Scripting
+<head>
+untuk membuat bagian yang berisi konten Skor yang akan ditampilkan di halaman web
+<body>
+memulai dokumen pengaturan HTML
+<html>
+
+
+
+
+ bahasa pemrograman yang proses pengolahannya dilakukan di komputer pengunjung (Client). Ketika seseorang ingin melihat suatu website, maka website yang bertipe ini akan sepenuhnya di download dan diproses di komputer masing- masing sehingga siapapun yang melihat website kita bisa mengambil seluruh Script yang ditulis oleh pembuatnya, Hal tersebut merupakan suatu kelemahan tersendiri, yaitu orang yang berniat jahat bisa dengan mudah mengotak-atik website kita dengan lebih mudah. Web yang menggunakan program ini biasanya website statis, yaitu yang tampilannya hampir tidak berubah, kecuali website tersebut dirombak pada halamannya contoh html, client side scripting 
+
 yaitu bahasa pemrograman web yang pengolahannya dilakukan di komputer server dan hasil pengolahannya kirimkan ke komputer client/pengunjung dalam bentuk bahasa html,
 sehingga Skor pengunjung tidak
-mengetahui Script yang telah ditulis oleh pembuatnya, sehingga website tipe ini lebih aman dari serangan hacker, walaupun masih beresiko juga terkena hack. contoh php, jsp
-             Jelaskan yang anda ketahui tentang *3/3 User Interface!
-Antarmuka yang memungkinkan pengguna tidak dapat berinteraksi dengan sistem
-Antarmuka yang memungkinkan pengguna berinteraksi dengan sistem
-Rancangan sistem
-Aplikasi yang sudah selesai dibuat
-Run" umumnya digunakan untuk menguji 4/4 fungsionalitas perangkat lunak secara keseluruhan, sementara "debugging" digunakan untuk menyelidiki dan memperbaiki masalah atau bug tertentu.1
-Benar
-Salah
-Komentar pada java script untuk satu *4/4 baris menggunakan // di awal baris
-. Komentar pada java script untuk multi
-baris menggunakan /* di awal dan */ di akhir. Komentar pada html
-menggunakan <!-- di awal dan --> di akhir.
-Benar
-Salah
-Tipe data apa yang digunakan untuk *···/4 angka decimal?
-float, double, float double, double float
-Jawaban yang benar
-float double float double double float
-Syntax untuk membuat form pada *4/4 halaman website
-<form action=" " method="get/post"> </form>
-<from></from>
-<form width="" heiht="">
-<form action="method"></form>
-Apa yang anda lakukan agar Website *5/5 anda ini tidak melanggar Lisensi, Hak
-Cipta dan Hak Paten? Pilih yang
-dianggap benar
-Konten Teks: Jangan menyalin teks dari website lain tanpa izin. Buatlah konten asli atau gunakan sumber yang mengizinkan penggunaannya (dengan atribusi jika diperlukan).
-Gambar dan Video: Gunakan gambar atau video dengan lisensi bebas,
-Gunakan software atau plugin yang memiliki lisensi terbuka atau sesuai dengan perjanjian lisensi.
-Menggunakan software bajakan atau versi tidak resmi.
-ika menggunakan konten dari pihak ketiga, minta izin tertulis sebelum menggunakannya.
-Formulir ini dibuat dalam SMKN 4 Tasikmalaya. Does this form look suspicious? Laporan
-       Formulir
+mengetahui Script yang telah ditulis oleh pembuatnya, sehingga website tipe ini lebih aman dari serangan hacker, walaupun masih beresiko juga terkena hack. contoh php, jsp Server Side Scripting
+
+
 

@@ -1,0 +1,17 @@
+Berikut adalah jawaban untuk pertanyaan-pertanyaan Anda:
+
+10. Perintah untuk mengganti baris pada HTML adalah: <br>
+11. Untuk memasukkan perintah berupa gambar yang dapat diklik dan fungsinya hampir sama dengan submit adalah: <input type="image">
+12. Tag <input> yang atribut TYPE-nya dapat digunakan untuk menerima masukan berupa pilihan yaitu: radio atau checkbox
+13. Atribut ACTION digunakan untuk: Menentukan URL tujuan ketika form dikirimkan.
+14. Perintah yang dapat menggabungkan beberapa kolom menjadi satu adalah: colspan pada tag <td> atau <th>.
+15. Perintah yang paling pertama dalam mengawali pembuatan HTML adalah: <!DOCTYPE html>
+16. Software untuk menulis bahasa HTML yang paling sederhana adalah: Text editor seperti Notepad (Windows) atau TextEdit (Mac).
+17. Perintah untuk membuat teks menjadi berwarna adalah: Dengan menggunakan atribut style atau tag <font> (meskipun tidak disarankan), misalnya:
+
+<p style="color: red;">Teks berwarna merah</p>
+
+18. Fungsi bgcolor dalam membuat tabel berpengaruh kepada latar belakang tabel, yang bisa memengaruhi warna di belakang teks atau gambar.
+19. Istilah dalam menyimpan file yang diperlukan website sehingga memungkinkan semua pihak mengakses data secara online adalah: hosting.
+
+Jika ada yang kurang jelas, silakan tanyakan!
